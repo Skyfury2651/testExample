@@ -2,7 +2,7 @@ package com.company;
 
 import com.company.Singleton.Singleton;
 
-public class Main {
+public class MainSingleton {
     public static void main(String[] args) {
         Singleton singleton = Singleton.getInstance();
         singleton.addPlayer();

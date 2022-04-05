@@ -1,4 +1,4 @@
-package main.java.com.company.Factory.ExampleOnline;
+package com.company.Factory.ExampleOnline;
 
 public class HatchBack extends Car {
 

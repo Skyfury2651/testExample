@@ -1,4 +1,4 @@
-package main.java.com.company.Facade;
+package com.company.Facade;
 
 public class ShapeMaker {
     private IShape circle;

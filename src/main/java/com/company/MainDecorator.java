@@ -1,6 +1,6 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.Decorator.*;
+import com.company.Decorator.*;
 
 public class MainDecorator {
     public static void main(String[] args) {

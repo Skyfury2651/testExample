@@ -1,6 +1,6 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.Command.*;
+import com.company.Command.*;
 
 public class MainCommand {
     public static void main(String[] args) {

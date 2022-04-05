@@ -1,4 +1,4 @@
-package main.java.com.company.Command;
+package com.company.Command;
 
 public class ObjectWithMethod {
     public void exportPDF() {

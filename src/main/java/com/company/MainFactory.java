@@ -1,9 +1,9 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.Factory.AuthFactory;
-import main.java.com.company.Factory.FacebookAuth;
-import main.java.com.company.Factory.GoogleAuth;
-import main.java.com.company.Factory.IAuth;
+import com.company.Factory.AuthFactory;
+import com.company.Factory.FacebookAuth;
+import com.company.Factory.GoogleAuth;
+import com.company.Factory.IAuth;
 
 import java.util.Random;
 

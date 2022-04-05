@@ -1,4 +1,4 @@
-package main.java.com.company.Factory;
+package com.company.Factory;
 
 public class GoogleAuth implements IAuth {
     @Override

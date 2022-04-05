@@ -1,4 +1,4 @@
-package main.java.com.company.Command;
+package com.company.Command;
 
 public class ExportPdf implements Command {
     private ObjectWithMethod objectWithMethod;

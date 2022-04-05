@@ -1,4 +1,4 @@
-package main.java.com.company.Decorator;
+package com.company.Decorator;
 
 public abstract class CakeDecorator implements ICake {
     protected ICake iCake;

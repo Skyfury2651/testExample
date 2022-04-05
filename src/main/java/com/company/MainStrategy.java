@@ -1,8 +1,8 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.Strategy.Context;
-import main.java.com.company.Strategy.CreateStrategy;
-import main.java.com.company.Strategy.UpdateStrategy;
+import com.company.Strategy.Context;
+import com.company.Strategy.CreateStrategy;
+import com.company.Strategy.UpdateStrategy;
 
 public class MainStrategy {
     public static void main(String[] args) {

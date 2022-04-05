@@ -1,6 +1,6 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.Singleton.Singleton;
+import com.company.Singleton.Singleton;
 
 public class MainSingleton {
     public static void main(String[] args) {

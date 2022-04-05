@@ -1,6 +1,6 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.Facade.ShapeMaker;
+import com.company.Facade.ShapeMaker;
 
 public class MainFacade {
     public static void main(String[] args) {

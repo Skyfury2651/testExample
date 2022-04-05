@@ -1,4 +1,4 @@
-package main.java.com.company.UnitTest;
+package com.company.UnitTest;
 
 import org.junit.Test;
 
@@ -8,7 +8,7 @@ import java.util.Date;
 
 
 public class DateUtils {
-    public String formatDate(Date inputDate,String format) throws ParseException {
+    public String formatDate(Date inputDate,String format) {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat(format);
 
         return simpleDateFormat.format(inputDate);

@@ -1,4 +1,4 @@
-package main.java.com.company.Decorator.ExampleOnline;
+package com.company.Decorator.ExampleOnline;
 
 public abstract class PizzaDecorator implements IPizza {
     // Reference to component object

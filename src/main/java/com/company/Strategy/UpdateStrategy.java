@@ -1,4 +1,4 @@
-package main.java.com.company.Strategy;
+package com.company.Strategy;
 
 public class UpdateStrategy implements Strategy{
     @Override

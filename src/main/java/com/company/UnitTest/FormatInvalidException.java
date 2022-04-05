@@ -1,4 +1,4 @@
-package main.java.com.company.UnitTest;
+package com.company.UnitTest;
 
 import java.text.ParseException;
 
@@ -14,5 +14,7 @@ public class FormatInvalidException extends ParseException {
      */
     public FormatInvalidException(String s, int errorOffset) {
         super(s, errorOffset);
+
+        System.out.println(s);
     }
 }

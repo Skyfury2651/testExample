@@ -1,4 +1,4 @@
-package main.java.com.company.Decorator.ExampleOnline;
+package com.company.Decorator.ExampleOnline;
 
 public class TomatoPizza implements IPizza{
     @Override

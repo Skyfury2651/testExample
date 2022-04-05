@@ -1,4 +1,4 @@
-package main.java.com.company.Singleton;
+package com.company.Singleton;
 
 public class Singleton {
     private int currentPlayer;
